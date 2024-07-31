@@ -46,4 +46,4 @@ Acknowledgements :
 
 Contact :
 
-Created by [https://github.com/Intelligence158/BoomBikes-Case-study.git] - feel free to contact me!
+Created by [https://github.com/Yesha711/BoomBike-LinearRegression.git] - feel free to contact me!
