@@ -21,3 +21,18 @@ Snowfall - cm
 Seasons - Winter, Spring, Summer, Autumn
 Holiday - Holiday/No holiday
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+Technologies Used
+•	NumPy version: 1.26.2
+•	Pandas version: 2.2.0
+•	Seaborn version: 0.13.2
+•	Matplotlib version: 3.8.3
+•	Scikit-learn version: 1.4.2
+•	Statsmodels version: 0.14.1
+
+Acknowledgements
+•	This project was based on tutorial (https://learn.upgrad.com/course/5800/segment/52631/312290/946791/4725024)
+
+Contact
+
+Created by [https://github.com/Intelligence158/BoomBikes-Case-study.git] - feel free to contact me!
